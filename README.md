@@ -1,3 +1,3 @@
 # superagent-playground
 
-Playground repo for dsh-superagent.
+dsh-superagent 的试验仓库。
